@@ -1,0 +1,39 @@
+.new-contact {
+  border: 2px solid #38015c;
+  margin: 0 10rem 2rem;
+  padding-bottom: 1rem;
+}
+
+/* .new-contact button {
+  font: inherit;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 1.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #38015c;
+}
+
+.new-contact button:hover {
+  background-color: #c291e2;
+  color: #38015c;
+}
+ */
+.new-contact p {
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+}
+
+.new-contact label {
+  width: 120px;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.new-contact input {
+  flex-grow: 1;
+  margin-right: 10px;
+}

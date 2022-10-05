@@ -1,0 +1,13 @@
+.contacts-filter {
+  text-align: left;
+  margin-left: 4rem;
+  margin-top: 1rem;
+}
+
+.contacts-filter input {
+  margin-right: 10px;
+  height: 35px;
+  font-weight: bold;
+  color: brown;
+  font-size: 20px;
+}

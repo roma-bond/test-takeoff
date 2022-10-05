@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "email": "romabond@rrr.com",
+      "password": "typicode1",
+      "contacts": [
+        {
+          "id": 0,
+          "name": "Alex",
+          "address": "Russia",
+          "phone": "+7 999 888 4444"
+        },
+        {
+          "id": 1,
+          "name": "Mary",
+          "address": "Belarus",
+          "phone": "+375 111 666 7777"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "email": "test@test.com",
+      "password": "test",
+      "contacts": [
+        {
+          "id": 0,
+          "name": "Victor",
+          "address": "Russia",
+          "phone": "+7 999 888 5444"
+        },
+        {
+          "id": 1,
+          "name": "Ann",
+          "address": "Ukrain",
+          "phone": "+380 111 666 7777"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.contact-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid black;
+}
+
+.contact-item button {
+  align-self: center;
+}
